@@ -31,10 +31,18 @@ inovação, provendo funcionalidades que deem efetividade nas atividades interna
 
 ## Definições, abreviações e outros termos do domínio do problema
 
+<!--
 * Definição 1
 * Definição 2
 * Definição 3
 * etc.
+-->
+
+* RFP: Request for Proposal.
+* NMSE: Níveis Mínimos de Serviços Exigidos 
+* Definição 3
+* etc.
+
 
 ## Integração com outros sistemas
 
@@ -52,16 +60,27 @@ inovação, provendo funcionalidades que deem efetividade nas atividades interna
 
 ## Usuários
 
+<!--
 * Tipo de usuário 1
 * Tipo de usuário 2
 * Tipo de usuário 3
 * etc.
+-->
+* Fornecedores
 
 ## Funcionalidades do produto
 
+<!--
 * Funcionalidade 1
 * Funcionalidade 2
 * etc.
+-->
+
+* Funcionalidade 1: Ideação 
+* Funcionalidade 2: Colaboração
+* Funcionalidade 3: Desenvolvimento de Ideias
+* Funcionalidade 4: Gestão de Ideias
+* Funcionalidade 5: Administração do Sistema
 
 ## Restrições do projeto
 
