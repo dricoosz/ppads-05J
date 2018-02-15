@@ -5,11 +5,17 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 esperadas do sistema.
 
 ## Objetivos
-
+<!--
 * Objetivo 1
 * Objetivo 2
 * Objetivo 3
 * etc.
+-->
+
+* possibilitar a gestão do processo de inovação, sobretudo no que se relaciona à captação, à seleção e ao desenvolvimento de 
+* ideias em ambiente colaborativo, junto ao
+* público interno do Banco do Brasil, bem como a gestão do portfólio de ideias para
+* subsidiar a priorização de projetos de inovação. 
 
 ## Problema
 
