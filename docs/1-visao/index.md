@@ -74,3 +74,8 @@ Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
 ### Protótipos para funcionalidade N
+
+
+
+### REF: as informações utilizadas neste exercício foram consultadas em
+### http://www.bb.com.br/docs/pub/siteEsp/dilog/dwn/RFPGItermosg.pdf.
